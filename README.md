@@ -3,7 +3,7 @@ Our databases project: An online job-fair platform, in an attempt to alleviate u
 
 # Contributors:
 
-~ Uma Subbiah
-~ M. Bindu Trilekha
-~ Mohanna R
+~ Uma Subbiah <br>
+~ M. Bindu Trilekha <br>
+~ Mohanna R <br>
 ~ Shruti Ajithkumar
